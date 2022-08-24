@@ -1,0 +1,11 @@
+[database]
+hostname = localhost
+database = 
+username = 
+password = 
+
+
+[remeha]
+username = 
+password = 
+mac_address = 
