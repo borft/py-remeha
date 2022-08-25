@@ -28,6 +28,7 @@ cur = conn.cursor()
 
 dates = []
 date_to = datetime.datetime.now()
+# change the range to fetch date for more days (use with care)
 for i in range(0, 1):
     dates.append(date_to - datetime.timedelta(days=i))
 
