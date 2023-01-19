@@ -71,8 +71,7 @@ Fields
     'verbruik_passief_koelen': 'Verbruik Passief koelen [kWh]', 
     'verbruik_regeneratie': 'Verbruik Regeneratie [kWh]', 
     'verbruik_standby': 'Verbruik Stand-by [kWh]', 
-    'ver:/bruik_tapwater_compressor': 
-    'Verbruik Tapwater compressor [kWh]', 
+    'verbruik_tapwater_compressor': 'Verbruik Tapwater compressor [kWh]', 
     'verbruik_tapwater_cpree': 'Verbruik tapwater CPR+EE'
 }
 
